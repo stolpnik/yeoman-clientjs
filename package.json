@@ -7,7 +7,9 @@
     "test": "test"
   },
   "dependencies": {
-    "yeoman": "*"
+    "yeoman": "*",
+	"grunt" : "*",
+	"pkg"   : "*"
   },
   "devDependencies": {},
   "scripts": {
