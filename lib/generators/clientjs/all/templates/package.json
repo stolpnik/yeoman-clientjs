@@ -25,6 +25,7 @@
         "grunt-coffee" : "*",
 		"grunt-growl" : "*",
 		"mocha" : "*",
+		"chai" : "*",
 		"expect.js" : "*"
     }
 }
