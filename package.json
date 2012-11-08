@@ -1,5 +1,5 @@
 {
-  "name": "clientjs",
+  "name": "yeoman-clientjs",
   "version": "0.0.2",
   "description": "yeoman generator",
   "main": "index.js",
