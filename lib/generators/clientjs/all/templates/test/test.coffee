@@ -1,8 +1,5 @@
-chai      = require 'chai'
-should    = chai.should()
-sinon     = require 'sinon'
-sinonChai = require 'sinon-chai'
-chai = require 'chai'
+expect      = require "expect.js"
 
 describe 'なんかテスト', ->
-	it "おっけー？"
+	it "おっけー？", ->
+		expect("ok").to.be("ok")
