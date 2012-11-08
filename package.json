@@ -7,8 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "yeoman": "*",
-	"grunt" : "*"
+    "yeoman": "*"
   },
   "devDependencies": {},
   "scripts": {
@@ -16,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/stolpnik/clientjs.git"
+    "url": "https://github.com/stolpnik/yeoman-clientjs.git"
   },
   "author": "iwasa mitsuhiro",
   "license": "MIT"
