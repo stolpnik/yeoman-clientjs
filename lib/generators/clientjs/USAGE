@@ -2,7 +2,7 @@ Description:
     Explain the generator
 
 Example:
-    yeoman init clientjs Thing
+    yeoman init clientjs all
 
     This will create:
         what/will/it/create

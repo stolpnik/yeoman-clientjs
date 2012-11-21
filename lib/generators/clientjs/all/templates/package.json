@@ -26,6 +26,7 @@
 		"grunt-growl" : "*",
 		"mocha" : "*",
 		"chai" : "*",
-		"expect.js" : "*"
+		"expect.js" : "*",
+		"testem" : "*"
     }
 }
