@@ -22,7 +22,6 @@
 		"coffee-script" : "*",
 		"hogan.js": "*",
         "grunt-compass": "*",
-        "grunt-coffee" : "*",
 		"grunt-growl" : "*",
 		"mocha" : "*",
 		"chai" : "*",
