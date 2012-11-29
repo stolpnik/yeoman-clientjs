@@ -20,12 +20,14 @@
         "grunt": "*",
         "growl": "*",
 		"coffee-script" : "*",
+		"grunt-contrib-coffee" : "*",
 		"hogan.js": "*",
         "grunt-compass": "*",
 		"grunt-growl" : "*",
 		"mocha" : "*",
 		"chai" : "*",
 		"expect.js" : "*",
-		"testem" : "*"
+		"testem" : "*",
+		"grunt-requirejs" : "*"
     }
 }
