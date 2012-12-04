@@ -21,6 +21,7 @@
         "growl": "*",
 		"coffee-script" : "*",
 		"grunt-contrib-coffee" : "*",
+		"grunt-contrib-yuidoc" : "*",
 		"hogan.js": "*",
         "grunt-compass": "*",
 		"grunt-growl" : "*",
